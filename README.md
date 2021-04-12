@@ -38,14 +38,11 @@ http://localhost:3000
     **Content:** 
     ```
     {
-    "movie": {
         "id": 1,
         "name": "<movie name>",
         "desc": "<movie desc>",
         "updatedAt": "2020-03-30T06:02:31.794Z",
-        "createdAt": "2020-03-30T06:02:31.794Z",
-        "UserId": 1
-      }
+        "createdAt": "2020-03-30T06:02:31.794Z"
     }
     ```
 
